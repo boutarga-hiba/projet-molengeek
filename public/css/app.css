@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image-1{
+position: relative;
+/* filter: grayscale(40%); filtre noir */
+background: linear-gradient(rgba(0,0,0.5),rgba(0,0,0.5));
+
+}
+.titre-image{
+    position: absolute;
+bottom: 250px;
+left: 70px;
+}
+.button-1{
+    background-color: rgb(148, 82, 210);
+    color: white;
+    border: 0 solid rgb(148, 82, 210);
+    font-family: sans-serif;
+    position: absolute;
+    padding: 8px 25px 8px 25px;
+    font-size: small;
+    top:180px;
+    left: 470px;
+    
+}
+.couleur-span{
+    color: blueviolet;
+}
+.description{
+    margin-top: 30px;
+    font-size: 14px;
+    
+   
+}
+.para{
+    margin-top: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.carte{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.cartes{
+    margin-left: 60px;
+}
