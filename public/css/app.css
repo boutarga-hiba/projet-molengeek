@@ -47,3 +47,27 @@ left: 70px;
 .cartes{
     margin-left: 60px;
 }
+footer{
+    height: 40vh;
+    background-color: #333;
+}
+.socialmedia{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.socialmedia i{
+    margin-top: 2%;
+    font-size: 40px;
+}
+.socialmedia a{
+    margin-left: 20%;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}
+.footer-logo{
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+}
